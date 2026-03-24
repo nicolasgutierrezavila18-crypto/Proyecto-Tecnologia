@@ -1,4 +1,5 @@
-'''Proba de Evaliacion Tecnoloxia Nicolás Gutiérrez Ávila'''
+'''Proba de Evaliacion Tecnoloxia Nicolás Gutiérrez Ávila 24/3/26'''
+# Pregunta 3
 #include "ABlocks_DHT.h"
 #include <ESP32Servo.h>
 
